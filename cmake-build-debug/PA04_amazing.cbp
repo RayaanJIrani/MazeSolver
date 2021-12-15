@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PA04_amazing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PA04_amazing">
+				<Option output="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/PA04_amazing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 PA04_amazing"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PA04_amazing/fast">
+				<Option output="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/PA04_amazing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 PA04_amazing/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rayaanirani/Desktop/MazeSolver/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSAdjacencyList.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSAdjacencyListTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSList.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSListNode.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSListTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSStack.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSStackTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSString.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSString.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSStringTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSVector.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/DSVectorTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/Maze.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/Maze.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/Room.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/Room.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/catch.hpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/main.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/input_maze04.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/output01.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rayaanirani/Desktop/MazeSolver/output02.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

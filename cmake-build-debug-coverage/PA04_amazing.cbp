@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="PA04_amazing"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PA04_amazing">
+				<Option output="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/PA04_amazing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 PA04_amazing"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="PA04_amazing/fast">
+				<Option output="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/PA04_amazing" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 PA04_amazing/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/cmake-build-debug-coverage/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSAdjacencyList.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSAdjacencyListTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSList.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSListNode.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSListTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSStack.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSStackTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSString.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSString.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSStringTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSVector.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/DSVectorTests.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/Maze.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/Maze.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/Room.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/Room.h">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/catch.hpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/main.cpp">
+			<Option target="PA04_amazing"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/input_maze04.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/output01.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/rayirani/Desktop/new_folder/21s-pa04-RayaanJIrani/output02.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
